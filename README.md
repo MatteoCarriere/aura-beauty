@@ -9,8 +9,7 @@ Design minimalista e luxury, ottimizzato per dispositivi mobili.
 
 ## Screenshot
 
-> *(aggiungi uno screenshot del sito qui)*  
-> Su GitHub: trascina un'immagine direttamente nell'editor del README
+<img width="1896" height="1077" alt="Screenshot 2026-04-01 103411" src="https://github.com/user-attachments/assets/66960c6b-bc80-4903-85c0-63fce0df82d5" />
 
 ## Caratteristiche
 
