@@ -5,7 +5,7 @@ Design minimalista e luxury, ottimizzato per dispositivi mobili.
 
 ## Demo
 
-🔗 [matteocarriere.github.io/aura-beauty](https://matteocarriere.github.io/aura-beauty/)
+[matteocarriere.github.io/aura-beauty](https://matteocarriere.github.io/aura-beauty/)
 
 ## Screenshot
 
