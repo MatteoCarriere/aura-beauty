@@ -1,4 +1,4 @@
-# Aura Beauty & Spa 💅
+# Aura Beauty & Spa 
 
 Sito web per centro estetico realizzato come progetto portfolio.  
 Design minimalista e luxury, ottimizzato per dispositivi mobili.
@@ -36,4 +36,4 @@ Adattabile a: centri estetici, spa, parrucchieri, nail bar.
 ## Contatti
 
 Realizzato da **Matteo Carriere**  
-📧 [GitHub](https://github.com/MatteoCarriere)
+[GitHub](https://github.com/MatteoCarriere)
